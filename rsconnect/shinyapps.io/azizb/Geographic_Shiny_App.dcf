@@ -1,0 +1,14 @@
+name: Geographic_Shiny_App
+title: Geographic_Shiny_App
+username:
+account: azizb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6632296
+bundleId: 6092595
+url: https://azizb.shinyapps.io/Geographic_Shiny_App/
+when: 1657657168.82012
+lastSyncTime: 1657657168.82012
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|data/countries of the world.csv|data/read_data.R|data/tallest_completed_buildings.csv|data/The Most Largest Cities in the World 1950 - 2035.csv
